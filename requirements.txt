@@ -1,0 +1,5 @@
+streamlit>=1.45
+plotly>=5.22
+pandas>=2.2
+numpy>=2.0
+streamlit-option-menu
